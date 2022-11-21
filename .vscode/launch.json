@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch QueueTest",
+            "request": "launch",
+            "mainClass": "com.example.basic.heap.QueueTest",
+            "projectName": "basic"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem41",
+            "request": "launch",
+            "mainClass": "com.example.basic.heap.Problem41",
+            "projectName": "basic"
+        },
+        {
+            "type": "java",
             "name": "Launch Program",
             "request": "launch",
             "mainClass": "com.example.basic.Program",
